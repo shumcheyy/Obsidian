@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "be79bb0bd8e2b911",
+    "type": "split",
+    "children": [
+      {
+        "id": "e592dc5718b233e1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AWS Secops prep/Secops Exam topics.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53bdfd7c1cc51ff6",
+    "type": "split",
+    "children": [
+      {
+        "id": "23e08b26b2b6863e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc639e39378ba96b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e3e189e92427795b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 368
+  },
+  "right": {
+    "id": "5484dcf480dfac41",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fafbf08ec242a97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ad42c9837ac8b9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AWS Secops prep/Secops Exam topics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e592dc5718b233e1",
+  "lastOpenFiles": [
+    "Docker Security/Chapter 3. Control Groups/Untitled.md",
+    "Docker Security/Chapter 2. Linux System Calls, Permissions, and Capabilities/Linux Capabilities.md",
+    "Docker Security/Chapter 2. Linux System Calls, Permissions, and Capabilities/File Permissions.md",
+    "Docker Security/Chapter 2. Linux System Calls, Permissions, and Capabilities/Syscalls.md",
+    "Docker Security/Chapter 2. Linux System Calls, Permissions, and Capabilities/Privilege Escalation.md",
+    "Average.png.png",
+    "Excel/Important Functions.md",
+    "SumIf.png",
+    "Docker Security/Chapter 2. Linux System Calls, Permissions, and Capabilities.md",
+    "Docker Security/Chapter 1. Container Security Threats.md"
+  ]
+}

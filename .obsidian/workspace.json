@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "fad17529f9d8ca9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c0f4547f65790bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96459bbbc4220573",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OWASP Top 10/Broken Access Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c52138a2c210e32e",
+    "type": "split",
+    "children": [
+      {
+        "id": "aac10d4e1adbc110",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b8c137fb2e5eba2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "808af333bc2bd6cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "890cd08442e79793",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0f2d63ba116bca8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b67f3eed630b42db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15f2502fbd030440",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OWASP Top 10/Broken Access Control.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "808af333bc2bd6cd",
+  "lastOpenFiles": [
+    "README.md",
+    "GIT/check.txt.md",
+    "GIT/check.txt",
+    "OWASP Top 10/Broken Access Control.md",
+    "GIT",
+    "Alternatives to CIA triad.md",
+    "AWS Secops prep/Secops Exam topics.md",
+    "OWASP Top 10",
+    "secops.png",
+    "AWS Secops prep/Authentication, Authorization and Access Management/AWS  Identity and Access Management.md",
+    "AWS Secops prep/Common Security Issue related to Security/Elastic Container Services(ECS).md",
+    "AWS Secops prep/Authentication, Authorization and Access Management/Untitled.canvas",
+    "AWS Secops prep/Authentication, Authorization and Access Management/AWS Service Control Policies(SCP).md",
+    "AWS Secops prep/Authentication, Authorization and Access Management/AWS Cognito.md",
+    "Untitled Kanban.md",
+    "AWS Secops prep/Compliance and Governance/AWS Organizations.md",
+    "AWS Secops prep/Common Application Security Attacks/OWASP Top 10.md",
+    "AWS Secops prep/Common Security Issue related to Security/Lamba Functions.md",
+    "AWS Secops prep/Common Application Security Attacks",
+    "AWS Secops prep/Common Security Issue related to Security/Simple Storage Services(S3).md",
+    "AWS Secops prep/Common Security Issue related to Security/Elastic Compute Services(EC2).md",
+    "AWS Secops prep/Common Security Issue related to Security/Elastic Kubernetes Services(EKS).md",
+    "AWS Secops prep/Monitoring and Incident Response/AWS GuardDuty.md",
+    "AWS Secops prep/Common Security Issue related to Security",
+    "AWS Secops prep/Monitoring and Incident Response/AWS Detective.md",
+    "AWS Secops prep/Monitoring and Incident Response/AWS Cloudtrail.md",
+    "AWS Secops prep/Monitoring and Incident Response/AWS Cloudwatch.md",
+    "AWS Secops prep/Infra Security/Network ACLs.md",
+    "AWS Secops prep/Monitoring and Incident Response",
+    "AWS Secops prep/Infra Security/Security grps.md",
+    "AWS Secops prep/Infra Security/AWS Virtual Private Cloud(VPC).md",
+    "AWS Secops prep/Infra Security",
+    "Untitled 1",
+    "AWS Secops prep/Compliance and Governance/AWS Config.md",
+    "AWS Secops prep/Compliance and Governance",
+    "AWS Secops prep/Data Security/AWS Certificate Manager",
+    "AWS Secops prep/Untitled.md"
+  ]
+}

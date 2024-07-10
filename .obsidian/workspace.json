@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OWASP Top 10/Broken Access Control.md",
+                "file": "Linux Privesc - PA/Basic Priv Esc Tech 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OWASP Top 10/Broken Access Control.md",
+                "file": "Linux Privesc - PA/Basic Priv Esc Tech 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +113,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "808af333bc2bd6cd",
+  "active": "96459bbbc4220573",
   "lastOpenFiles": [
+    "Pasted image 20240711022227.png",
+    "Linux Privesc - PA/Linux Capabilities 4.md",
+    "Linux Privesc - PA/Breaking Out of Restricted Env 3.md",
+    "Linux Privesc - PA/Basic Priv Esc Tech 2.md",
+    "Linux Privesc - PA/Basic Priv Esc Tech 1.md",
+    "Cloud Pentest Methodology/Methodology.md",
+    "Linux Privesc - PA",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Cloud Pentest Methodology",
+    "OWASP Top 10/Broken Access Control.md",
     "README.md",
     "GIT/check.txt.md",
     "GIT/check.txt",
-    "OWASP Top 10/Broken Access Control.md",
     "GIT",
     "Alternatives to CIA triad.md",
     "AWS Secops prep/Secops Exam topics.md",
@@ -140,17 +150,8 @@
     "AWS Secops prep/Monitoring and Incident Response/AWS GuardDuty.md",
     "AWS Secops prep/Common Security Issue related to Security",
     "AWS Secops prep/Monitoring and Incident Response/AWS Detective.md",
-    "AWS Secops prep/Monitoring and Incident Response/AWS Cloudtrail.md",
-    "AWS Secops prep/Monitoring and Incident Response/AWS Cloudwatch.md",
-    "AWS Secops prep/Infra Security/Network ACLs.md",
     "AWS Secops prep/Monitoring and Incident Response",
-    "AWS Secops prep/Infra Security/Security grps.md",
-    "AWS Secops prep/Infra Security/AWS Virtual Private Cloud(VPC).md",
     "AWS Secops prep/Infra Security",
-    "Untitled 1",
-    "AWS Secops prep/Compliance and Governance/AWS Config.md",
-    "AWS Secops prep/Compliance and Governance",
-    "AWS Secops prep/Data Security/AWS Certificate Manager",
-    "AWS Secops prep/Untitled.md"
+    "Untitled 1"
   ]
 }

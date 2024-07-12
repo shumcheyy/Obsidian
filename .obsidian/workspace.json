@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Privesc - PA/Basic Priv Esc Tech 1.md",
+                "file": "Kerberos/Kerberos Messages.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Privesc - PA/Basic Priv Esc Tech 1.md",
+                "file": "Kerberos/Kerberos Messages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,25 +115,30 @@
   },
   "active": "96459bbbc4220573",
   "lastOpenFiles": [
+    "Kerberos/Attacks on Kerberos.md",
+    "Kerberos/Kerberos Basics.md",
+    "Kerberos/Kerberos Messages.md",
+    "README.md",
+    "Kerberos",
+    "secops.png",
+    "Pasted image 20240713004939.png",
+    "Linux Privesc - PA/Basic Priv Esc Tech 1.md",
+    "Linux Privesc - PA/Basic Priv Esc Tech 2.md",
     "Pasted image 20240711022227.png",
     "Linux Privesc - PA/Linux Capabilities 4.md",
     "Linux Privesc - PA/Breaking Out of Restricted Env 3.md",
-    "Linux Privesc - PA/Basic Priv Esc Tech 2.md",
-    "Linux Privesc - PA/Basic Priv Esc Tech 1.md",
     "Cloud Pentest Methodology/Methodology.md",
     "Linux Privesc - PA",
     "Untitled 1.md",
     "Untitled.md",
     "Cloud Pentest Methodology",
     "OWASP Top 10/Broken Access Control.md",
-    "README.md",
     "GIT/check.txt.md",
     "GIT/check.txt",
     "GIT",
     "Alternatives to CIA triad.md",
     "AWS Secops prep/Secops Exam topics.md",
     "OWASP Top 10",
-    "secops.png",
     "AWS Secops prep/Authentication, Authorization and Access Management/AWS  Identity and Access Management.md",
     "AWS Secops prep/Common Security Issue related to Security/Elastic Container Services(ECS).md",
     "AWS Secops prep/Authentication, Authorization and Access Management/Untitled.canvas",
@@ -147,11 +152,8 @@
     "AWS Secops prep/Common Security Issue related to Security/Simple Storage Services(S3).md",
     "AWS Secops prep/Common Security Issue related to Security/Elastic Compute Services(EC2).md",
     "AWS Secops prep/Common Security Issue related to Security/Elastic Kubernetes Services(EKS).md",
-    "AWS Secops prep/Monitoring and Incident Response/AWS GuardDuty.md",
     "AWS Secops prep/Common Security Issue related to Security",
-    "AWS Secops prep/Monitoring and Incident Response/AWS Detective.md",
     "AWS Secops prep/Monitoring and Incident Response",
-    "AWS Secops prep/Infra Security",
-    "Untitled 1"
+    "AWS Secops prep/Infra Security"
   ]
 }

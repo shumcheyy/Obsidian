@@ -1,0 +1,50 @@
+1. SQL Injection.md
+2. Cross-Site Scripting (XSS).md
+3. Cross-Site Request Forgery (CSRF).md
+4. Server-Side Request Forgery (SSRF).md
+5. XML External Entity (XXE) Injection.md
+6. OS Command Injection.md
+7. Directory Traversal.md
+8. File Path Traversal.md
+9. Insecure Deserialization.md
+10. Server-Side Template Injection (SSTI).md
+11. Authentication Bypass.md
+12. Broken Access Control.md
+13. Information Disclosure.md
+14. Business Logic Vulnerabilities.md
+15. Web Cache Poisoning.md
+16. HTTP Request Smuggling.md
+17. HTTP Host Header Attacks.md
+18. OAuth Authentication Vulnerabilities.md
+19. JWT Attacks.md
+20. Clickjacking.md
+21. DOM-Based Vulnerabilities.md
+22. WebSockets Vulnerabilities.md
+23. Insecure Direct Object References (IDOR).md
+24. Race Conditions.md
+25. File Upload Vulnerabilities.md
+26. XML Injection.md
+27. LDAP Injection.md
+28. NoSQL Injection.md
+29. GraphQL API Vulnerabilities.md
+30. Web LLM Attacks.md
+31. Prototype Pollution.md
+32. DOM Clobbering.md
+33. Web Cache Deception.md
+34. HTTP Parameter Pollution.md
+35. CORS Misconfiguration.md
+36. CSTI (Client-Side Template Injection).md
+37. CRLF Injection.md
+38. CSV Injection.md
+39. SMTP Header Injection.md
+40. Subdomain Takeover.md
+41. Brute Force Attacks.md
+42. Password Reset Poisoning.md
+43. Session Fixation.md
+44. Session Hijacking.md
+45. Insecure Cryptographic Storage.md
+46. Man-in-the-Middle (MITM) Attacks.md
+47. Denial of Service (DoS).md
+48. Server-Side Include (SSI) Injection.md
+49. HTML Injection.md
+50. Open Redirection.md

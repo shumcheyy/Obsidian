@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kerberos/Kerberos Messages.md",
+                "file": "Web Attacks/5. XML EXTERNAL ENTITY (XXE) INJECTION.MD",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kerberos/Kerberos Messages.md",
+                "file": "Web Attacks/5. XML EXTERNAL ENTITY (XXE) INJECTION.MD",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +115,12 @@
   },
   "active": "96459bbbc4220573",
   "lastOpenFiles": [
+    "Web Attacks/9. INSECURE DESERIALIZATION.MD",
+    "Web Attacks/8. FILE PATH TRAVERSAL.MD",
+    "Web Attacks/1. SQL INJECTION.MD",
+    "Kerberos/Kerberos Messages.md",
     "Kerberos/Attacks on Kerberos.md",
     "Kerberos/Kerberos Basics.md",
-    "Kerberos/Kerberos Messages.md",
     "README.md",
     "Kerberos",
     "secops.png",
@@ -149,9 +152,6 @@
     "AWS Secops prep/Common Application Security Attacks/OWASP Top 10.md",
     "AWS Secops prep/Common Security Issue related to Security/Lamba Functions.md",
     "AWS Secops prep/Common Application Security Attacks",
-    "AWS Secops prep/Common Security Issue related to Security/Simple Storage Services(S3).md",
-    "AWS Secops prep/Common Security Issue related to Security/Elastic Compute Services(EC2).md",
-    "AWS Secops prep/Common Security Issue related to Security/Elastic Kubernetes Services(EKS).md",
     "AWS Secops prep/Common Security Issue related to Security",
     "AWS Secops prep/Monitoring and Incident Response",
     "AWS Secops prep/Infra Security"
